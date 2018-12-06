@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrabalhoA3</string>
+    <string name="public_api">https://jsonplaceholder.typicode.com/albums</string>
+</resources>
